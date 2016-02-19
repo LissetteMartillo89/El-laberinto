@@ -1,0 +1,14 @@
+#include < winbgim.h >
+#include < stdlib.h >
+#include < stdio.h >
+#include < iostream >
+#include < String.h >
+using namespace std;
+main()
+{ int x=20;
+
+}
+ la variable de entrada es x
+ El programa es realizado por lenguaje dev c++ de la misma pagina de https://sourceforge.net/projects/orwelldevcpp/?source=typ_redirect
+ el ahorcado fue descargado por la pagina http://mygnet.net/codigos/cplusplus/juegos/ahorcado.1319
+ 
